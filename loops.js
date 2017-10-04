@@ -4,3 +4,5 @@ function forLoop(array){
     return array
   }
 }
+let chicks = ['ducklings','goslings','eaglets']
+console.log(forLoop(chicks));
