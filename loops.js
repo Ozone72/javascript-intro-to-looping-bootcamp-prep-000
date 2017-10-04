@@ -9,5 +9,5 @@ function forLoop(array){
   }
   return array
 }
-let chicks = ['ducklings','goslings','eaglets']
+let chicks = []
 console.log(forLoop(chicks));
