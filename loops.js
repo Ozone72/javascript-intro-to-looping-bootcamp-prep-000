@@ -19,5 +19,3 @@ function whileLoop(n){
 }
 
 //whileLoop(10)
-
-
