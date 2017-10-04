@@ -10,4 +10,4 @@ function forLoop(array){
   return array
 }
 let chicks = []
-console.log(forLoop(chicks));
+console.log(forLoop([]));
